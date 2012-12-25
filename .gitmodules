@@ -1,0 +1,9 @@
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "Command-T"]
+	path = Command-T
+	url = https://github.com/wincent/Command-T.git
+[submodule "bundle/command-T"]
+	path = bundle/command-T
+	url = https://github.com/wincent/Command-T.git
